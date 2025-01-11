@@ -26,15 +26,15 @@ Feel free to connect with me @yvesliebert for all things cybersecurity, AI, or j
 
 Like My Work?
 
-<a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+<a href="https://www.buymeacoffee.com/yvesliebert" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; I’m currently working with JS, TS, AWS, etc.
-- 🚀 &nbsp; I’m currently exploring ML, Gen AI, LLMs, etc.
-- 💬 &nbsp; Ask me anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
+- 🛠 &nbsp; I’m currently working with JS, Python, AWS, etc.
+- 🚀 &nbsp; I’m currently exploring Linux, AI, Offensive Security, etc.
+- 💬 &nbsp; Ask me anything [here](https://github.com/yvesliebert/yvesliebert/issues/2)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
-- 📫 &nbsp; Reach me out: pavangandhi100@gmail.com.
+- 📫 &nbsp; Reach me out: yvesliebert@gmail.com
 
 ### My Absolute Favorites:
 
